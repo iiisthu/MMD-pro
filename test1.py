@@ -1,5 +1,6 @@
 from pox.core import core                     # Main POX object
 #class test1(object):
+#comment
 
 log = core.getLogger()
 def _go_up (event):
